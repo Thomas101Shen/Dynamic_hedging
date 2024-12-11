@@ -11,4 +11,4 @@ On mac you can install it with the following command (if brew is installed)
 `brew install python@3.10`
 
 
-install dependenceis by running the following: `pip install requirements.txt`
+install dependenceis by running the following: `pip install -r requirements.txt`
