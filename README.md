@@ -17,8 +17,8 @@ FRE 7773 final project
 
 ## Introduction
 
-This project delves into dynamic hedging techniques, utilizing neural networks and reinforcement learning to optimize hedging strategies.  
-It includes research papers, implementation notebooks, and data related to the subject.
+This project delves into dynamic hedging techniques that utilize neural networks and reinforcement learning to optimize hedging strategies.  
+It includes research papers, implementation notebooks, reports, and data related to the subject. The implementation in this project is a neural network approach to optimizing black-scholes.
 
 ## Project Structure
 
